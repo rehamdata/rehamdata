@@ -13,9 +13,6 @@ My goal is to grow as a data professional and contribute to impactful projects w
 ## 📌 Connect With Me
 
 <p align="center">
- <!-- <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/PORTFOLIO-FE6C4C?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
-  </a> -->
   <a href="https://www.linkedin.com/in/reham-aljuhani">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -51,37 +48,12 @@ My goal is to grow as a data professional and contribute to impactful projects w
 
 ## 🌟 Featured Projects
 
-### 🔍 SMART Supply Chain Insights Dashboard  
-- Developed a comprehensive dashboard to monitor logistics efficiency and supplier KPIs.  
-- Used Python and Excel for data preprocessing.  
-- Built visualizations in Power BI using DAX formulas.  
-**Technologies:** Power BI, Python, Excel, DAX  
-[🔗 Live Dashboard](https://your-live-dashboard-link.com)
-
+### 🔍 British Airways Reviews Dashboard  
+- Interactive dashboard with filters by country, month, aircraft, and traveler type.  
+- Map, line chart, and dual bar chart visualizations.  
+**Tools:** Tableau
+  [🔗 Live Dashboard](https://public.tableau.com/views/BritishAirwaysReviews_17585631664690/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+    
 ---
 
-### 📊 Marketing A/B Testing Project  
-- Conducted A/B testing using statistical methods to evaluate campaign effectiveness.  
-- Applied chi-square test to validate significance.  
-**Technologies:** Python (Pandas, SciPy), SQL, Excel  
-[🔗 GitHub Repo](https://github.com/your-repo-link)
 
----
-
-### 📈 Job Market Analysis Dashboard  
-- Scraped and analyzed over 200 job postings to extract skill trends.  
-- Developed an interactive dashboard using Power BI.  
-**Technologies:** Power BI, Python (BeautifulSoup, Selenium)  
-[🔗 Live Dashboard](https://your-job-dashboard-link.com)
-
----
-
-## 📁 Other Notable Projects  
-<details>
-<summary>Click to expand</summary>
-
-- 📦 Sales Forecasting with Time Series  
-- 🏥 Hospital Admission Analysis  
-- 📉 Churn Prediction Model  
-
-</details>
