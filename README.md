@@ -52,7 +52,8 @@ My goal is to grow as a data professional and contribute to impactful projects w
 - Interactive dashboard with filters by country, month, aircraft, and traveler type.  
 - Map, line chart, and dual bar chart visualizations.  
 **Tools:** Tableau
-  [🔗 Live Dashboard](https://public.tableau.com/views/BritishAirwaysReviews_17585631664690/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  [🔗 Live Dashboard](https://tinyurl.com/468zpn8a)
+  https://public.tableau.com/views/BritishAirwaysReviews_17585631664690/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
     
 ---
 
