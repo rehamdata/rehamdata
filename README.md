@@ -1,6 +1,7 @@
 # 👋 Hello World! I'm Reham Aljuhani
 
-### Aspiring Data Analyst | Passionate about turning data into actionable insights
+### 💡 Data Analyst | Skilled in Power BI, Tableau, SQL, Python, and Excel  
+### 🎯 Passionate about turning data into actionable insights
 
 ---
 
