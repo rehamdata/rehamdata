@@ -9,6 +9,7 @@ I enjoy exploring datasets, building dashboards, and solving real-world problems
 My goal is to grow as a data professional and contribute to impactful projects while continuously learning new technologies.
 
 
+
 ## 📌 Connect With Me
 
 <p align="center">
@@ -32,13 +33,8 @@ My goal is to grow as a data professional and contribute to impactful projects w
 
 ### 📊 Data Analysis  
 <p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-</p>
-
-### 💻 Programming  
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
@@ -46,9 +42,9 @@ My goal is to grow as a data professional and contribute to impactful projects w
 
 ### 📈 Visualization  
 <p align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Seaborn-2C6A7F?style=for-the-badge" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/DAX-00599C?style=for-the-badge" alt="DAX">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib">
 </p>
 
 ---
