@@ -3,6 +3,9 @@
 ### 💡 Data Analyst | Skilled in Power BI, Tableau, SQL, Python, and Excel  
 ### 🎯 Passionate about turning data into actionable insights
 
+I enjoy exploring datasets, building dashboards, and solving real-world problems using tools like Python, SQL, and Power BI. 
+My goal is to grow as a data professional and contribute to impactful projects while continuously learning new technologies.
+
 ---
 
 ## 📌 Connect With Me
@@ -38,7 +41,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
 ### 📈 Visualization  
@@ -46,8 +48,6 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib">
   <img src="https://img.shields.io/badge/Seaborn-2C6A7F?style=for-the-badge" alt="Seaborn">
   <img src="https://img.shields.io/badge/DAX-00599C?style=for-the-badge" alt="DAX">
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge" alt="SciPy">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
 ---
