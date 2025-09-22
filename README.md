@@ -1,12 +1,13 @@
 # 👋 Hello World! I'm Reham Aljuhani
 
-### 💡 Data Analyst | Skilled in Power BI, Tableau, SQL, Python, and Excel  
-### 🎯 Passionate about turning data into actionable insights
-
-I enjoy exploring datasets, building dashboards, and solving real-world problems using tools like Python, SQL, and Power BI. 
-My goal is to grow as a data professional and contribute to impactful projects while continuously learning new technologies.
+💡 **Data Analyst** | Skilled in **Power BI, Tableau, SQL, Python, and Excel**  
+🎯 Passionate about turning data into actionable insights
 
 ---
+
+I enjoy exploring datasets, building dashboards, and solving real-world problems using tools like **Python, SQL, and Power BI**.  
+My goal is to grow as a data professional and contribute to impactful projects while continuously learning new technologies.
+
 
 ## 📌 Connect With Me
 
