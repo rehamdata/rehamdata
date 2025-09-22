@@ -5,9 +5,9 @@
 ---
 
 ## 📌 Connect With Me
-<!--
+
 <p align="center">
-  <a href="https://your-portfolio-link.com">
+ <!-- <a href="https://your-portfolio-link.com">
     <img src="https://img.shields.io/badge/PORTFOLIO-FE6C4C?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
   </a> -->
   <a href="https://www.linkedin.com/in/reham-aljuhani">
