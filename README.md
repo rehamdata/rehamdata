@@ -10,7 +10,7 @@
   <a href="https://your-portfolio-link.com">
     <img src="https://img.shields.io/badge/PORTFOLIO-FE6C4C?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/reham-aljuhani">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/your-github">
