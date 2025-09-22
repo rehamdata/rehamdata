@@ -30,8 +30,8 @@ My goal is to grow as a data professional and contribute to impactful projects w
 ---
 
 ## 🚀 Skills & Technologies
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-### 📊 Data Analysis  
+ 
+ ### 📊 Data Analysis  
 <p align="center">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
