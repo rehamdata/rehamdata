@@ -57,5 +57,9 @@ My goal is to grow as a data professional and contribute to impactful projects w
 
     
 ---
+### 💾 SQL Training Cheat Sheet
 
+Quick guide with essential **SQL commands**, including **DDL, queries, joins, and backups**. Designed as a handy reference for practicing and learning SQL.
 
+**Tools:** SQL
+[🔗 View Code Repository](https://github.com/YourUsername/SQL-Cheat-Sheet)
