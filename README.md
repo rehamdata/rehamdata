@@ -15,7 +15,6 @@ My goal is to grow as a data professional and contribute to impactful projects w
 <p align="center">
   <a href="https://www.linkedin.com/in/reham-aljuhani">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
    <a href="https://x.com/RehamInData">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
