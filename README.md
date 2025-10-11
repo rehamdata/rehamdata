@@ -57,3 +57,4 @@ Quick guide with essential **SQL commands**, including **DDL, queries, joins, an
 
 **Tools:** SQL
 [🔗 View Code Repository](https://github.com/rehamdata/SQL-Training-Cheat-Sheet)
+[🔗 View Code Repository](https://github.com/rehamdata/SQL-Training-Cheat-Sheet/blob/main/SQL_Cheat_Sheet_Full.sql)
