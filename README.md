@@ -14,8 +14,11 @@ My goal is to grow as a data professional and contribute to impactful projects w
 
 <p align="center">
   <a href="https://www.linkedin.com/in/reham-aljuhani"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  
   <a href="https://github.com/rehamdata"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  
   <a href="https://x.com/RehamInData"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  
   <a href="mailto:reham.a.aljuhani@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
