@@ -54,5 +54,6 @@ My goal is to grow as a data professional and contribute to impactful projects w
 ### 💾 SQL Training Cheat Sheet
 
 - Quick guide with essential **SQL commands**, including **DDL, queries, joins, and backups**. Designed as a handy reference for practicing and learning SQL.
+
 **Tools:** SQL
 [🔗 View Code Repository](https://github.com/rehamdata/SQL-Training-Cheat-Sheet/blob/main/SQL_Cheat_Sheet_Full.sql)
