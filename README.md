@@ -46,6 +46,7 @@ My goal is to grow as a data professional and contribute to impactful projects w
 ### 🔍 British Airways Reviews Dashboard  
 - Interactive dashboard with filters by country, month, aircraft, and traveler type.  
 - Map, line chart, and dual bar chart visualizations.  
+
 **Tools:** Tableau
   [🔗 Live Dashboard](https://tinyurl.com/468zpn8a)
 
@@ -54,6 +55,7 @@ My goal is to grow as a data professional and contribute to impactful projects w
 ### 💾 SQL Training Cheat Sheet
 
 - Quick guide with essential **SQL commands**, including **DDL, queries, joins, and backups**. Designed as a handy reference for practicing and learning SQL.
+
 **Tools:** SQL
 [🔗 View Code Repository](https://github.com/rehamdata/SQL-Training-Cheat-Sheet/blob/main/SQL_Cheat_Sheet_Full.sql)
 
@@ -62,6 +64,7 @@ My goal is to grow as a data professional and contribute to impactful projects w
 ### 📊 Sales Dashboard 
 - Interactive monthly dashboard designed to analyze sales performance and support data-driven decision-making.
 - Includes key KPIs (Sales, Profit, Discount), comparison of sales by Category/Sub-Category, and tracking of daily and seasonal trends.
+
 **Tools:** Power BI, DAX, Power Query
 [🔗 View Code Repository](https://github.com/rehamdata/Sales-Dashboard/blob/main/README.md) 
 
