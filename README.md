@@ -57,3 +57,12 @@ My goal is to grow as a data professional and contribute to impactful projects w
 
 **Tools:** SQL
 [🔗 View Code Repository](https://github.com/rehamdata/SQL-Training-Cheat-Sheet/blob/main/SQL_Cheat_Sheet_Full.sql)
+
+
+---
+### 📊 Sales Dashboard 
+- Interactive monthly dashboard designed to analyze sales performance and support data-driven decision-making.
+- Includes key KPIs (Sales, Profit, Discount), comparison of sales by Category/Sub-Category, and tracking of daily and seasonal trends.
+**Tools:** Power BI, DAX, Power Query
+[🔗 View Code Repository](https://github.com/rehamdata/Sales-Dashboard/blob/main/README.md) 
+---
