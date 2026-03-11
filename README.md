@@ -70,3 +70,10 @@ My goal is to grow as a data professional and contribute to impactful projects w
 
 
 ---
+### 📊 Retail Sales Performance Dashboard
+- Interactive monthly dashboard designed to analyze retail sales performance and support data-driven decision-making.
+- Includes key KPIs (Total Revenue, Total Units), comparison of sales by Age Category, and tracking of monthly revenue trends.
+- Advanced Data Cleaning: Implemented Parameters for dynamic sourcing and performed data imputation to handle missing demographics.
+
+**Tools:** Power BI, DAX, Power Query 
+[🔗 View Dashboard](https://github.com/rehamdata/Sales-Dashboard/blob/main/README.md) 
