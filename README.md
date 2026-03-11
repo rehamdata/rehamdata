@@ -76,4 +76,4 @@ My goal is to grow as a data professional and contribute to impactful projects w
 - Advanced Data Cleaning: Implemented Parameters for dynamic sourcing and performed data imputation to handle missing demographics.
 
 **Tools:** Power BI, DAX, Power Query 
-[🔗 View Dashboard](https://github.com/rehamdata/Sales-Dashboard/blob/main/README.md) 
+[🔗 View Dashboard](https://github.com/rehamdata/Retail-Sales-Analysis-PowerBI/blob/main/README.md) 
