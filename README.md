@@ -61,7 +61,7 @@ My goal is to grow as a data professional and contribute to impactful projects w
 
 
 ---
-### 📊 Sales Dashboard 
+### 💰 Sales Dashboard 
 - Interactive monthly dashboard designed to analyze sales performance and support data-driven decision-making.
 - Includes key KPIs (Sales, Profit, Discount), comparison of sales by Category/Sub-Category, and tracking of daily and seasonal trends.
 
@@ -70,10 +70,62 @@ My goal is to grow as a data professional and contribute to impactful projects w
 
 
 ---
-### 📊 Retail Sales Performance Dashboard
+### 🏬 Retail Sales Performance Dashboard
 - Interactive monthly dashboard designed to analyze retail sales performance and support data-driven decision-making.
 - Includes key KPIs (Total Revenue, Total Units), comparison of sales by Age Category, and tracking of monthly revenue trends.
 - Advanced Data Cleaning: Implemented Parameters for dynamic sourcing and performed data imputation to handle missing demographics.
 
 **Tools:** Power BI, DAX, Power Query 
 [🔗 View Dashboard](https://github.com/rehamdata/Retail-Sales-Analysis-PowerBI/blob/main/README.md) 
+
+
+---
+### 📈 Sales Trend & Customer Metrics Dashboard
+- Interactive monthly dashboard designed using minimalist UI/UX principles to analyze global sales performance and optimize customer experience.
+- Includes key KPIs (Total Sales, Total Profit, Total Customers, Sales vs Target %), geographic mapping of sales density, and interactive tracking of monthly trends and service quality pillars.
+- Advanced Features: Implemented a dynamic "As of Date" timestamp using advanced DAX and seamless interactive month filtering.
+
+**Tools:** Power BI, DAX, Power Query
+[🔗 View Dashboard](https://github.com/rehamdata/Sales-Trend-Customer-Metrics-Dashboard/blob/main/README.md)
+
+
+***
+
+## 🕵️‍♂️ Case File: Under Investigation
+
+> 🔍 *"Data never lies, it just leaves clues."*
+
+💼 A new complex dataset has just landed on my desk. The investigation is underway, and I'm currently decoding the hidden patterns behind the scenes. 
+
+### 🛑 📜 Status: **Decoding In Progress...**
+
+<!--
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+-->
