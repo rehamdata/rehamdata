@@ -43,6 +43,13 @@ My goal is to grow as a data professional and contribute to impactful projects w
 
 ## 🌟 Featured Projects
 
+## 🗺️ Project Roadmap & Management
+I use an interactive Kanban board to manage my data analytics projects, track my current progress, and plan future portfolio pieces.
+
+🔗 [Click Here to View My Live Project Board](https://github.com/users/rehamdata/projects/2)
+
+---
+
 ### 🔍 British Airways Reviews Dashboard  
 - Interactive dashboard with filters by country, month, aircraft, and traveler type.  
 - Map, line chart, and dual bar chart visualizations.  
