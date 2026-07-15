@@ -95,6 +95,14 @@ I use an interactive Kanban board to manage my data analytics projects, track my
 **Tools:** Power BI, DAX, Power Query
 [🔗 View Dashboard](https://github.com/rehamdata/Sales-Trend-Customer-Metrics-Dashboard/blob/main/README.md)
 
+---
+### 🛡️ Insurance Analytics Dashboard
+- Interactive dashboard designed to monitor insurance performance, track key KPIs (e.g., Claim Ratio, Premium Growth), and identify operational risk trends.
+- Designed to support data-driven decision-making by visualizing performance metrics and facilitating comparative analysis across different policy segments.
+- Advanced Features: Implemented complex DAX measures for calculating insurance-specific KPIs and performed rigorous data cleaning to ensure data integrity and dashboard accuracy.
+
+**Tools:** Power BI, DAX, Power Query
+[🔗 View Dashboard]()
 
 ***
 
