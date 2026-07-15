@@ -102,7 +102,7 @@ I use an interactive Kanban board to manage my data analytics projects, track my
 - Advanced Features: Implemented complex DAX measures for calculating insurance-specific KPIs and performed rigorous data cleaning to ensure data integrity and dashboard accuracy.
 
 **Tools:** Power BI, DAX, Power Query
-[🔗 View Dashboard]()
+[🔗 View Dashboard](https://github.com/rehamdata/Insurance-Analytics-Dashboard/blob/main/README.md)
 
 ***
 
