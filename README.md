@@ -44,8 +44,7 @@ My goal is to grow as a data professional and contribute to impactful projects w
 ## 🌟 Featured Projects
 
 ## 🗺️ Project Roadmap & Management
-I use an interactive Kanban board to manage my data analytics projects, track my current progress, and plan future portfolio pieces.
-
+I maintain an interactive Kanban board to manage my data analytics portfolio, showcasing completed projects, work in progress, and planned analytics initiatives across multiple business domains.
 🔗 [Click Here to View My Live Project Board](https://github.com/users/rehamdata/projects/2)
 
 ---
